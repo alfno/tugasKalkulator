@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">tugas</string>
+    <string name="Batalkan"><u>Batalkan</u></string>
+    <string name="Berikutnya"><u>Berikutnya</u></string>
+
+
+    <string-array name="select">
+        <item> </item>
+        <item>Tambah</item>
+        <item>Kurang</item>
+        <item>Kali</item>
+        <item>Bagi</item>
+    </string-array>
+
+
+</resources>
